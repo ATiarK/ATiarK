@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ATiarK
 - 👀 I’m interested in ... Websites (especially HTML, CSS, and JS)
-- 🌱 I’m currently learning ... HTML, CSS, and JS
+- 🌱 I’m currently learning ... React & Next.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

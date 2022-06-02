@@ -1,5 +1,5 @@
 <h2 align="center"> Hello! 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<h6><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" /></h6>
  I'm Ahmad Tiar
 </h2>
 

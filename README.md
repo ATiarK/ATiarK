@@ -1,29 +1,58 @@
-<h2 align="center"> Hello! 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=35 />
- I'm Ahmad Tiar
-</h2>
-
 <div align="center">
-<a href="mailto:kurniaji.tiar@gmail.com"> <img src="http://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-<a href="https://id.linkedin.com/in/ahmad-tiar-kurniaji/"><img src="http://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="https://t.me/MIGHTiar"><img src="http://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a>
+
+# Ahmad Tiar K
+
+**Frontend Engineer** · Jakarta, Indonesia · Open to Remote
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmad--tiar.vercel.app-000?style=flat&logo=vercel&logoColor=white)](https://ahmad-tiar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmad--tiar--k-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-tiar-k)
+[![Gmail](https://img.shields.io/badge/Gmail-contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kurniaji.tiar@email.com)
+
 </div>
-<br />
 
-> Feel free to visit <a href="https://ahmad-tiar.vercel.app"><b>my Portfolio</b></a>
+---
 
-### Learned Tech & Skills
-> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-Tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=ffffff"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React_Js-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="http://img.shields.io/badge/-Next_Js-black?style=flat&logo=next.js&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+Frontend engineer with ~4 years of experience building production-grade web applications. I specialize in React/Next.js ecosystems with a strong focus on real-time features, scalable state management, and clean UI architecture.
 
-### Operating System
-> <img src="http://img.shields.io/badge/-Windows%2010-0078D6?style=flat&logo=windows&logoColor=white"> <img src="http://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+Currently open to **remote opportunities** — especially roles involving real-time systems, complex data flows, or consumer-facing products.
 
-### Design Tools
-> <img src="http://img.shields.io/badge/-Adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white"> <img src="http://img.shields.io/badge/-Adobe%20Illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white">  <img src="http://img.shields.io/badge/-Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6">  <img src="http://img.shields.io/badge/-Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white">
+---
 
-### Deployments
-> <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7">
+## 🛠 Tech Stack
 
-<br/>
+**Core**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ATiarK&show_icons=true)
+**State Management**
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000?style=flat&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+
+**Real-time & Styling**
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Tooling**
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+## 🔨 Currently
+
+- 🔍 Open to remote frontend roles
+- 🏗 Building side projects to sharpen full-stack capability
+- 📖 Deepening knowledge in Vue 3 and system architecture
+
+---
+
+## 📌 Featured Projects
+
+> See pinned repositories below ↓
+
+</div>

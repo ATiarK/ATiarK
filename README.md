@@ -2,7 +2,7 @@
 
 <a href="https://ahmad-tiar.vercel.app"><img src="docs/readme/banner.png" alt="ahmad-tiar.vercel.app — I build interfaces that feel instant" width="100%" /></a>
 
-# Hi, I'm Ahmad Tiar Kurniaji 👋
+# Hi, I'm Ahmad Tiar 👋
 
 **Frontend Engineer** · Indonesia (UTC+7) · Open to frontend roles
 

@@ -1,29 +1,107 @@
-<h2 align="center"> Hello! 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=35 />
- I'm Ahmad Tiar
-</h2>
+<div align="center">
+
+<a href="https://ahmad-tiar.vercel.app"><img src="docs/readme/banner.png" alt="ahmad-tiar.vercel.app — I build interfaces that feel instant" width="100%" /></a>
+
+# Hi, I'm Ahmad Tiar Kurniaji 👋
+
+**Frontend Engineer** · Indonesia (UTC+7) · Open to frontend roles
+
+I build fast, accessible web apps with React, Next.js and TypeScript —
+and occasionally a puzzle solver or a canvas game for fun.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmad--tiar.vercel.app-38BDF8?style=flat&logo=vercel&logoColor=white)](https://ahmad-tiar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-tiar-k/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kurniaji.tiar@gmail.com)
+
+</div>
+
+> 🔭 **Currently:** leading the frontend on a contract engagement, building puzzle tools in [the Lab](https://ahmad-tiar.vercel.app/lab), and open to frontend roles.
+
+---
+
+### 🧭 About me
+
+- 💼 **2026 — now:** Frontend-focused full-stack engineer (contract & freelance) — leading the frontend and handling parts of the backend.
+- 🏢 **2022 — 2026:** Frontend Engineer at PT. Qoin Digital Indonesia — front-end development on a full-time product team for close to four years.
+  <!-- TODO: add 1–2 concrete things you shipped or owned at Qoin -->
+- 🎓 Alterra Academy Front-End Bootcamp · B.Ed. English Education, UIN Raden Mas Said Surakarta
+
+**How I work**
+
+- ⚡ **Performance is a feature** — ship less JavaScript, measure Core Web Vitals instead of guessing.
+- 🗂️ **State has one home** — server state in a query cache, UI state close to where it's used.
+- ♿ **Accessible by default** — keyboard paths, focus rings and reduced motion from the first commit.
+
+### 🛠️ Stack
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![MUI](https://img.shields.io/badge/-Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 🚀 Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://chess-puzzle-mu.vercel.app"><img src="https://res.cloudinary.com/atiark-cloud/image/upload/v1792738981/portfolio/queen-escape-puzzle.png" alt="Chess Puzzle Studio" /></a>
+      <h4><a href="https://github.com/ATiarK/chess-puzzle">Chess Puzzle Studio</a> · <a href="https://chess-puzzle-mu.vercel.app">live</a></h4>
+      Create tactical puzzles from a PGN or a hand-set board, verify them with Stockfish, and share a link anyone can solve without signing up.
+      <br /><sub>Next.js 16 · Stockfish WASM · Drizzle · Neon · Clerk</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github-analyzer-murex.vercel.app"><img src="https://res.cloudinary.com/atiark-cloud/image/upload/v1792747821/portfolio/githhub-analyzer.png" alt="GitHub Analyzer" /></a>
+      <h4><a href="https://github.com/ATiarK/github-analyzer">GitHub Analyzer</a> · <a href="https://github-analyzer-murex.vercel.app">live</a></h4>
+      Turns any GitHub profile into charts for activity, repositories and commit patterns.
+      <br /><sub>Next.js 16 · TanStack Query · Recharts</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://ahmad-tiar.vercel.app/lab/tools/apiforge"><img src="docs/readme/apiforge.png" alt="API Forge" /></a>
+      <h4><a href="https://ahmad-tiar.vercel.app/lab/tools/apiforge">API Forge</a></h4>
+      Paste a cURL or JSON response and get TypeScript types, a Zod schema, MSW mocks and fixtures. Runs entirely in the browser.
+      <br /><sub>TypeScript · Web Worker · code generation</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ahmad-tiar.vercel.app/lab/tools/sudoku"><img src="docs/readme/sudoku.png" alt="Sudoku Solver" /></a>
+      <h4><a href="https://ahmad-tiar.vercel.app/lab/tools/sudoku">Sudoku Solver</a></h4>
+      Classic, Diagonal and Jigsaw Sudoku with hints that explain the logic. Import a screenshot and the grid and variant are detected.
+      <br /><sub>TypeScript · Web Worker · digit recognition</sub>
+    </td>
+  </tr>
+</table>
+
+### 🎮 The Lab
+
+My [portfolio](https://ahmad-tiar.vercel.app/lab) doubles as a playground — every engine hand-written in TypeScript, no game libraries.
+
+| Try it | What's inside |
+| --- | --- |
+| 🧱 [Tetris](https://ahmad-tiar.vercel.app/lab/tetris) | SRS kicks, 7-bag, hold, T-spins, back-to-back & combos |
+| 💣 [Bomber](https://ahmad-tiar.vercel.app/lab/bomber) | CPU AI with danger maps and traps, chain blasts, adventure mode |
+| 🎯 [Karambol](https://ahmad-tiar.vercel.app/lab/carrom) | Carrom disc physics, official singles rules, simulation-search CPU |
+| 🃏 [Solitaire](https://ahmad-tiar.vercel.app/lab/solitaire) | Klondike with seeded deals, hints and auto-finish |
+| 📦 [Sokoban](https://ahmad-tiar.vercel.app/lab/sokoban) | Deadlock detection, click-to-walk, original solver-verified levels |
+
+…plus 15 more games, puzzle solvers for LinkedIn's **Zip** and **Queens** (with screenshot import), and dev tools — JSON diff, JWT decoder, regex tester, color converter — that all run locally in your browser.
+
+<sub>Portfolio built with Next.js 16 · React 19 · TypeScript strict · Tailwind CSS 4 · Framer Motion — fully static, deployed on Vercel.</sub>
+
+### 📊 GitHub stats
 
 <div align="center">
-<a href="mailto:kurniaji.tiar@gmail.com"> <img src="http://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-<a href="https://id.linkedin.com/in/ahmad-tiar-kurniaji/"><img src="http://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="https://t.me/MIGHTiar"><img src="http://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ATiarK&theme=tokyonight" alt="Top languages" />
+<img height="180" src="https://streak-stats.demolab.com?user=ATiarK&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
 </div>
-<br />
-
-> Feel free to visit <a href="https://ahmad-tiar.vercel.app"><b>my Portfolio</b></a>
-
-### Learned Tech & Skills
-> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-Tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=ffffff"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React_Js-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="http://img.shields.io/badge/-Next_Js-black?style=flat&logo=next.js&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-
-### Operating System
-> <img src="http://img.shields.io/badge/-Windows%2010-0078D6?style=flat&logo=windows&logoColor=white"> <img src="http://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
-
-### Design Tools
-> <img src="http://img.shields.io/badge/-Adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white"> <img src="http://img.shields.io/badge/-Adobe%20Illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white">  <img src="http://img.shields.io/badge/-Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6">  <img src="http://img.shields.io/badge/-Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white">
-
-### Deployments
-> <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7">
-
-<br/>
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ATiarK&show_icons=true)

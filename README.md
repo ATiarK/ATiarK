@@ -53,16 +53,16 @@ and occasionally a puzzle solver or a canvas game for fun.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://chess-puzzle-mu.vercel.app"><img src="https://res.cloudinary.com/atiark-cloud/image/upload/v1792738981/portfolio/queen-escape-puzzle.png" alt="Chess Puzzle Studio" /></a>
+      <a href="https://chess-puzzle-mu.vercel.app"><img src="docs/readme/chess.png" alt="Chess Puzzle Studio" /></a>
       <h4><a href="https://github.com/ATiarK/chess-puzzle">Chess Puzzle Studio</a> · <a href="https://chess-puzzle-mu.vercel.app">live</a></h4>
       Create tactical puzzles from a PGN or a hand-set board, verify them with Stockfish, and share a link anyone can solve without signing up.
       <br /><sub>Next.js 16 · Stockfish WASM · Drizzle · Neon · Clerk</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github-analyzer-murex.vercel.app"><img src="https://res.cloudinary.com/atiark-cloud/image/upload/v1792747821/portfolio/githhub-analyzer.png" alt="GitHub Analyzer" /></a>
-      <h4><a href="https://github.com/ATiarK/github-analyzer">GitHub Analyzer</a> · <a href="https://github-analyzer-murex.vercel.app">live</a></h4>
-      Turns any GitHub profile into charts for activity, repositories and commit patterns.
-      <br /><sub>Next.js 16 · TanStack Query · Recharts</sub>
+      <a href="https://ahmad-tiar.vercel.app/lab/bomber"><img src="docs/readme/bomber.png" alt="Bomber" /></a>
+      <h4><a href="https://ahmad-tiar.vercel.app/lab/bomber">Bomber</a></h4>
+      Grid bomb battles against CPUs or a friend, plus an adventure mode. The CPU AI reads a danger map, commits to escape routes and sets traps.
+      <br /><sub>TypeScript · Canvas 2D · game AI</sub>
     </td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@ My [portfolio](https://ahmad-tiar.vercel.app/lab) doubles as a playground — ev
 | Try it | What's inside |
 | --- | --- |
 | 🧱 [Tetris](https://ahmad-tiar.vercel.app/lab/tetris) | SRS kicks, 7-bag, hold, T-spins, back-to-back & combos |
-| 💣 [Bomber](https://ahmad-tiar.vercel.app/lab/bomber) | CPU AI with danger maps and traps, chain blasts, adventure mode |
+| 🧩 [Klotski](https://ahmad-tiar.vercel.app/lab/klotski) | 4×5 sliding blocks with a BFS solver that computes par for every level |
 | 🎯 [Karambol](https://ahmad-tiar.vercel.app/lab/carrom) | Carrom disc physics, official singles rules, simulation-search CPU |
 | 🃏 [Solitaire](https://ahmad-tiar.vercel.app/lab/solitaire) | Klondike with seeded deals, hints and auto-finish |
 | 📦 [Sokoban](https://ahmad-tiar.vercel.app/lab/sokoban) | Deadlock detection, click-to-walk, original solver-verified levels |
